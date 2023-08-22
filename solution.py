@@ -58,16 +58,10 @@ print("The resulting string is:", reverse)
 str1 = "apple"
 str2 = "banana"
 str3 = "cherry"
-str4 = "peach"
-str5 = "orange"
-str6 = "raspberries"
 
 concatenated = str1
 concatenated += str2
 concatenated += str3
-concatenated += str4
-concatenated += str5
-concatenated += str6
 
 print("The concatenated string is:", concatenated)
 
